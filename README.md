@@ -100,4 +100,4 @@ Then modify `answer()` function in the code to use OpenAI API.
 ## 🔐 Privacy First
 
 * This system **does not send any data to external services**.
-* You can run this fully **inside your company firewall**.
+* You can run this fully **inside your organization firewall**.
