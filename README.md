@@ -1,4 +1,4 @@
-# 🧠 DeepFind – Internal Wiki QA Assistant
+# 🧠 DeepFind – Internal Wiki Q&A Assistant
 
 DeepFind is a fully private, offline question-answering (QA) assistant powered by a lightweight open-source LLM (TinyLlama) to answer natural language questions based on your internal **Confluence** or **Wiki** documentation.
 
