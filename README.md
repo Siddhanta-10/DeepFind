@@ -43,7 +43,6 @@ $ set HF_HUB_DISABLE_SYMLINKS_WARNING=1
 
 * Python 3.8+
 * RAM: 4–8 GB minimum (TinyLlama runs comfortably on CPU)
-* Internet (only for first-time TinyLlama model download)
 
 ---
 
